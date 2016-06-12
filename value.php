@@ -126,13 +126,11 @@ $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
 return ''.$jam.'	
-»♥« Rαмα∂αη kαяєєм мυвαяαk Ałł мυsłıмs »♥« 
-❤ тυм євα∂αт k łαмнση мє мєяα 1 kααм kяηα ❤ 
-❤ нαя sєняı sє ρнłє ❤ 
-❤ нαя ηαмαz k вα∂ ❤ 
-❤нαя ıƒтαя sє ρнłє ❤ 
-❤ нαя яσzy k вαα∂ ❤ 
-❤ sıяƒ αρηı ∂υα k kυcн αłƒααz мєяє ηααм kαяηα! ❤ 
+  ❤  Pak Army Zinda Bad  ❤ 
+  ❤  APS K shaheeedo Ko Salam  ❤ 
+  ❤  Yeh mAat Samjho Hm ne Tumhy Bhola Dia   ❤ Shaheeedo  ❤ 
+  ❤  Watan Ki Hawaieen Tumhy Salam Kahti Ha  ❤ 
+Powered By  ❤||  Faizy Ahmad  || 🍅👨||  Ch Umiar || 🍅👨||   Umer khan  || ❤ 
 '.$hr;
 } 
 
@@ -168,7 +166,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='вoт creaтed вy нarrιѕ ĸнan';
+$site='For personal Site Contact 📢 https://www.facebook.com/prince.faizy.758 ';
 $true=$ops.'
  '.$ips.'
    '.$site;
