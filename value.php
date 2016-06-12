@@ -126,10 +126,13 @@ $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
 return ''.$jam.'	
-👷 
-
-justNow
-
+»♥« Rαмα∂αη kαяєєм мυвαяαk Ałł мυsłıмs »♥« 
+❤ тυм євα∂αт k łαмнση мє мєяα 1 kααм kяηα ❤ 
+❤ нαя sєняı sє ρнłє ❤ 
+❤ нαя ηαмαz k вα∂ ❤ 
+❤нαя ıƒтαя sє ρнłє ❤ 
+❤ нαя яσzy k вαα∂ ❤ 
+❤ sıяƒ αρηı ∂υα k kυcн αłƒααz мєяє ηααм kαяηα! ❤ 
 '.$hr;
 } 
 
@@ -165,7 +168,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='BOT Powered By Harris Khan >>>> For Bot Contact fb.com/haarriskhaan';
+$site='вoт creaтed вy нarrιѕ ĸнan';
 $true=$ops.'
  '.$ips.'
    '.$site;
