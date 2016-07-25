@@ -1,0 +1,94 @@
+#search-form [type=text] { width:60%; -webkit-border-radius: 2px; border: 1px solid; margin:1px; padding:4px; background:#2e2b28;color:#0A2FFF}
+#search-form [type=submit] {;width: 10%; -webkit-border-radius: 25px; margin:1px;padding:4px;background: rgba(68, 68, 68, 0.72);color:#eee;border: 1px solid #FFF80B;}
+body{
+	background-image: url(http://forums.macrumors.com/attachments/black-jpg.15800/);
+	color: #FF9933;
+	text-align: center;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	background-color: #000000;
+	font-weight: bold;
+	padding: 0px;
+}
+
+#footer:after {content:"" !important;margin:1px;padding:1px;display:block !important;font-size:small !important}
+a,.post-meta .title {color:#FFFF17;text-shadow:#111}
+.heading a,h3 a,h4 a {color:#ddd;}
+h3 {color:#ddd;text-shadow:#111 1px 1px 1px}
+#navigation a {color:#DAF5F6}
+a {
+color:#67FC4A;
+}
+a:hover {
+color:#F2EC30;
+}
+td, th, p, li,table{
+	background: #4D4A2C;
+	border:1px solid #FF0B0B;
+	text-align: center;
+	-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+.result {
+padding: 15px;
+border: 1px solid #CCC;
+width: 500px;
+margin: 0 auto;
+border-radius: 12px;
+-moz-border-radius: 12px;
+-webkit-border-radius: 12px;
+}
+input{
+	border: 1px solid;
+	overflow: hidden;
+	background: #4D2C2C;
+	color: #6cd900;
+	-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+textarea{
+	border: 1px solid;
+	overflow: hidden;
+	background: #243545;
+	color: #6cd900;
+	-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+.main {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40pt;
+text-shadow: 0px 0px 6px rgb(255, 0, 0), 0px 0px 5px rgb(255, 0, 0), 0px 0px 5px rgb(255, 0, 0);
+color: rgb(255, 255, 255);
+}
+.button {
+	-webkit-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	-moz-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	color:#333;
+	background-color:#ffffff;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border:none;
+	font-family:Brush Script Std,sans-serif;
+	font-size:16px;
+	font-weight:700;
+	height:32px;
+	padding:4px 16px;
+	text-shadow:#FE6 0 1px 0
+}
+.footer {
+#footer:after {content:"Designed By Uttam Debnath" !important;margin:1px;padding:1px;display:block !important;font-size:small !important}
+a,.post-meta .title {color:#bb0;text-shadow:#111}
+.heading a,h3 a,h4 a {color:#ddd;}
+h3 {color:#ddd;text-shadow:#111 1px 1px 1px}
+#navigation a {color:#fff}
+CSS-Template Designed By Jatt
+#footer:after {content:"Designed By Uttam Debnath" !important;margin:1px;padding:1px;display:block !important;font-size:small !important}
+a,.post-meta .title {color:#bb0;text-shadow:#111}
+.heading a,h3 a,h4 a {color:#ddd;}
+h3 {color:#ddd;text-shadow:#111 1px 1px 1px}
+#navigation a {color:#fff}
