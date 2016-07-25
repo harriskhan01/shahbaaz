@@ -124,7 +124,7 @@ $bulan[gmdate('n',time()+60*60
 $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
-return ' '.$jam.' 🌸 Baatain Ye Kabhi Naa 🌸 Tu Bhoolna 🌸 Koi Tere Khatir 🌸 Hai Jee Raha 🌸
+return ' '.$jam.' 🌸 Jida Tere Nal 🌸 Weer Oda Mere Nal 🌸 Weer Jida Mere nal 🌸 veer Odi Rab Di Khir 🌸 
 
 Powered by ❤ Aziz Abid ❤
 '.$hr;
