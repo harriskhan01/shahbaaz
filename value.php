@@ -126,7 +126,7 @@ $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
 return ' '.$jam.' 🌸 Jida Tere Nal 🌸 Weer Oda Mere Nal 🌸 Weer Jida Mere nal 🌸 veer Odi Rab Di Khir 🌸 
 
-Powered by ❤ Aziz Abid ❤
+Powered by ❤ Harris Khan ❤
 '.$hr;
 }
 
