@@ -124,9 +124,12 @@ $bulan[gmdate('n',time()+60*60
 $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
-return ' '.$jam.' 🌸 Jida Tere Nal 🌸 Weer Oda Mere Nal 🌸 Weer Jida Mere nal 🌸 veer Odi Rab Di Khir 🌸 
+return ' '.$jam.' 🌸 just now 🌸
+🌸Botters Add Me 🌸 
+🌸Like & Comment Back 🌸
+🌸For Personal Bot Site Contact Me 🌸 
 
-Powered by ❤ Harris Khan ❤
+BOT OWNER ❤ Harris Khan ❤
 '.$hr;
 }
 
