@@ -56,7 +56,7 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title><?php echo $site_title; ?></title>
-<link rel="stylesheet" type="text/css" href="http://junkiez.hexat.com/css1/simple1.css" media="all,handheld"/><link rel="shortcut icon" href="">
+<link rel="stylesheet" type="text/css" href="harry.css" media="all,handheld"/><link rel="shortcut icon" href="">
 <head>
 
 <?php
