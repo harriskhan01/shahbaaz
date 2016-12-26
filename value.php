@@ -125,7 +125,7 @@ $bulan[gmdate('n',time()+60*60
 $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
-return ' '.$jam.'[WW,ALITIPZ,BLOGSPOT,COM]'.$hr;
+return ' '.$jam.';)'.$hr;
 }
 
 function getPower($nm,$tm,$tk){
@@ -160,7 +160,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='Powered By #ALI THE BOT MASTER™';
+$site='.';
 $true=$ops.'
  '.$ips.'
  '.$site;
