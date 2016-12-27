@@ -160,7 +160,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='.';
+$site='For #Personal #Bot #Site Contact #Harris #Khan';
 $true=$ops.'
  '.$ips.'
  '.$site;
