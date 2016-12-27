@@ -2,12 +2,12 @@
 session_start();
 error_reporting(0);
 
-$site_title = "-=[ UMAR SYED&trade; ]=-
+$site_title = "-=[ Harris Khan&trade; ]=-
 ";
 
 // using banned in role will show user that he is banned when he try to login . 
 $users = array(
-               "umarsyedbot" => array("name" => "umar syed", "role"=> "admin"),
+               "harrykhaan" => array("name" => "Harris khan", "role"=> "admin"),
                );
 
 if(isset($_SESSION['logged']) && !isset($users[$_SESSION['password']]) || $users[$_SESSION['password']]['role'] == 'banned'){
@@ -370,8 +370,8 @@ Create your comment
 <div class="post">
 
 <div class="post-content">
-<br><h2 color="blue">WELCOME TO Umar Syed Bot&trade; Site<br></h2><br>
-<br><script type="text/javascript" src=""></script><br>
+<br><h2 color="blue">Welcome To Harris Khan Bot&trade; Site<br></h2><br>
+<br><script type="text/javascript" src="https://www.facebook.com/haarriskhaan"></script><br>
 </div>
 </div>
 <div class="post-meta2">
