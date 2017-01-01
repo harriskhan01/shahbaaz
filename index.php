@@ -375,7 +375,7 @@ Create your comment
 <center><a href="https://web.facebook.com/umar.syed.501598"><img src="https://graph.facebook.com/100014011542272/picture?type=large" alt="Profile" style="height:200px;width:200px;-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px lime;box-shadow:0px 0px 20px 0px lime"/></a> </a>
 <span>
 <center>
-<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2fumar.syed.501598&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2fumar.syed.501598&amp;layout=standard&amp;show_faces=true&amp;colorscheme=dark&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 </div></center>
 </div>
 </div>
