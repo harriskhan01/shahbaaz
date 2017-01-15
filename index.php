@@ -57,6 +57,7 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title><?php echo $site_title; ?></title>
 <link rel="stylesheet" type="text/css" href="harry.css" media="all,handheld"/><link rel="shortcut icon" href="">
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=1354srtwak"></script>
 <head>
 
 <?php
